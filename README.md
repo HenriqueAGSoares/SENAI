@@ -1,1 +1,2 @@
-*Em breve todas as atividades serão movidas para suas respectivas pastas, **neste** branch.*
+# SENAI
+**Cada atividade está em seu respectivo branch.**
